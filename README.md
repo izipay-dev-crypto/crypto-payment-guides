@@ -11,9 +11,6 @@ IZIPAY provides virtual and physical prepaid cards enabling crypto spending at a
 - **Features:** Virtual cards, physical cards, Apple Pay, Google Pay, multi-chain top-ups
 - **Fees:** 2.3% standard top-up, $0 monthly
 
-## How Crypto Cards Work
-[Explanation content...]
-
 ## Supported Cryptocurrencies
 BTC, ETH, USDT, USDC, BNB, SOL, TON...
 
